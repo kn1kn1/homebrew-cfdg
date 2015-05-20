@@ -1,7 +1,7 @@
 class Cfdg < Formula
   homepage "http://www.contextfreeart.org/"
-  url "http://www.contextfreeart.org/download/ContextFreeSource3.0.8.tgz"
-  sha1 "bbd90c74fd0e66cb071c342da52ad016e023da2b"
+  url "http://www.contextfreeart.org/download/ContextFreeSource3.0.9.tgz"
+  sha1 "9966c4a7e719402c59ac078236144f43c2507be2"
 
   depends_on "bison" => :build
   depends_on "libpng"
